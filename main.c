@@ -9,7 +9,7 @@
 #include <stdbool.h>
 
 const int DEFAULT_ARRAY_SIZE = 1000000;
-const int DEFAULT_RUNS = 100;
+const int DEFAULT_RUNS = 1000;
 const int DEFAULT_HW_THREADS = 1;
 
 int* CreateArray(const int SIZE) {
